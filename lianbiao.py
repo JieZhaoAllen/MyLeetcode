@@ -61,7 +61,7 @@ if __name__ == '__main__':
 #                 if numbers[i] + numbers[j] == target:
 #                     lists.append(i+1)
 #                     lists.append(j+1)
-#                     return lists
+                     return lists
 
 
 
